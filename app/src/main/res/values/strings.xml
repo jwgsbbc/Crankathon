@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crankathon</string>
+    <string name="dialog_check_tv_licence">\"Got a TV licence?\"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dialog_check_pg">\"Are you over 16?\"</string>
+</resources>
